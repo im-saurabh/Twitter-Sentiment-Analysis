@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 The aim is to find the opinionative data and classify it according to its polarity, i.e. positive, negative or neutral feedback, known as sentiment classification and then analysing it which is known as sentiment analysis. ... This allows us to get to know about the public's mood or opinion about a particular topic.
-**
-Home Page:**
+
+**Home Page:**
 
 ![image](https://user-images.githubusercontent.com/63945720/110279958-00ff0380-8000-11eb-9d26-d3b7c390043f.png)
 
